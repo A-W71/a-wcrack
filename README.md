@@ -21,7 +21,7 @@ pip2 install bs4
 pip2 install futures
 
 
-git clone https://github.com/Riazkiller/fbcrack.git
+git clone https://github.com/A-W71/a-wcrack
 
 ls
 
